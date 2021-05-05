@@ -1,4 +1,4 @@
-FROM python:2.7.18
+FROM python:3.9.5
 
 MAINTAINER Andrew Cole <andrew.cole@illallangi.com>
 RUN pip install OctoPrint
